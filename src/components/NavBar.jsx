@@ -35,7 +35,7 @@ export default function NavBar() {
               <i className="fa fa-user-plus me-1"></i> Register</a>
 
             <a href="" className="btn btn-outline-dark ms-2">
-              <i class="fa-solid fa-cart-shopping me-1"></i>0</a>
+              <i className="fa-solid fa-cart-shopping me-1"></i>0</a>
 
           </div>
 
